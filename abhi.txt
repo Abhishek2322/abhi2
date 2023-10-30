@@ -1,0 +1,41 @@
+
+
+# def a_function (string):
+    
+#     return len(string)
+
+
+# print("length of the string india is :",a_function("india"))
+# print("length of the string rohit sharma  is :",a_function ("rohit sharma"))
+# print("length of the string virat kohli  is :",a_function ("virat kohli"))
+
+
+# def square (K):
+#     square=[]
+#     for A in K:
+#         square.append(A**2)
+#     return square
+
+# H=[2,4,6,8];
+# print(square(H))
+
+# def square (V):
+#     square=[]
+#     for C in V:
+#         square.append(C**3)
+#     return square
+
+# G=[2,4,6,8];
+# print(square(G))
+
+
+# def square (M):
+#     square=[]
+#     for L in M:
+#         square.append(L**4)
+#     return square
+
+# D=[2,4,6,8];
+# print(square(D))
+
+
